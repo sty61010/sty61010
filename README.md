@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Leetcode Stats](https://leetcard.jacoblin.cool/JacobLinCool?theme=unicorn)
+- 🔭 I’m currently working on Computer Vision and Machine Learning
+- 📫 See my website: https://sty61010.github.io/
