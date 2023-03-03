@@ -14,8 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sty61010&show_icons=true&locale=en&count_private=true&theme=great-gatsby" alt="sty61010" /></p>
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sty61010?theme=unicorn)
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sty61010&show_icons=true&locale=en&count_private=true&theme=maroongold" alt="sty61010" /></p>
+
 
 - 🔭 I’m currently working on Computer Vision and Machine Learning
 - 📫 See my website: https://sty61010.github.io/
