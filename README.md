@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+### I am George Tseng 😄
 <!--
 **sty61010/sty61010** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,5 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/sty61010?theme=unicorn)
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sty61010&show_icons=true&locale=en" alt="sty61010" /></p>
+
 - 🔭 I’m currently working on Computer Vision and Machine Learning
 - 📫 See my website: https://sty61010.github.io/
